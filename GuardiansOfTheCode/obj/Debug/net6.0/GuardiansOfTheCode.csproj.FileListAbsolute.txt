@@ -1,0 +1,14 @@
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\net6.0\GuardiansOfTheCode.exe
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\net6.0\GuardiansOfTheCode.deps.json
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\net6.0\GuardiansOfTheCode.runtimeconfig.json
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\net6.0\GuardiansOfTheCode.dll
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\net6.0\GuardiansOfTheCode.pdb
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\GuardiansOfTheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\GuardiansOfTheCode.dll
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\refint\GuardiansOfTheCode.dll
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\GuardiansOfTheCode.pdb
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\GuardiansOfTheCode.genruntimeconfig.cache
+C:\mycode\abstractizare\Design Patterns\Singleton\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\net6.0\ref\GuardiansOfTheCode.dll
